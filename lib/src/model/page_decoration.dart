@@ -61,7 +61,7 @@ class PageDecoration {
     this.boxDecoration,
     this.imageFlex = 1,
     this.bodyFlex = 1,
-    this.imagePadding = const EdgeInsets.only(bottom: 24.0),
+    this.imagePadding = const EdgeInsets.only(bottom: 15.0),
     this.contentPadding = const EdgeInsets.all(16.0),
     this.titlePadding = const EdgeInsets.only(bottom: 24.0),
     this.descriptionPadding = EdgeInsets.zero,
